@@ -1,3 +1,3 @@
-for name in ['pepe','jose']:
+for name in ['francisco','jose']:
 	print (name)
 
